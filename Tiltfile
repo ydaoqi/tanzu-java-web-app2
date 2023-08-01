@@ -1,4 +1,4 @@
-allow_k8s_contexts('eks.map-pas-global-house-worldwide-sales.us-east-2.tanzu-gitops-workshop')
+allow_k8s_contexts('tap-gitops-workshop')
 LOCAL_PATH = os.getenv("LOCAL_PATH", default='.')
 NAMESPACE = os.getenv("NAMESPACE", default='default')
 
