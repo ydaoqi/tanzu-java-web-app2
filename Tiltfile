@@ -1,4 +1,4 @@
-allow_k8s_contexts('tap-gitops-workshop')
+allow_k8s_contexts('tap-gitops')
 LOCAL_PATH = os.getenv("LOCAL_PATH", default='.')
 NAMESPACE = os.getenv("NAMESPACE", default='default')
 
