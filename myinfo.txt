@@ -1,0 +1,2 @@
+Cloned on 2023-08-22 from:
+https://github.com/Tanzu-Solutions-Engineering/tanzu-java-web-app
